@@ -5,14 +5,14 @@ El proyecto Frozen Bot consiste en la construcción de un bot para la toma de pe
 
 ## Las funciones a desarrollar son las siguientes:
 
-### 1. is_hot_in_pehuajo en GeoAPI
+### 1. Función is_hot_in_pehuajo en GeoAPI
 Esta función debe consultar la información del clima y devolver True si la temperatura actual en Pehuajó supera los 28 grados Celsius. Si ocurre cualquier excepción HTTP, debe devolver False.
 
 ### 2. Función is_product_available
-is_product_available: En esta función, se busca en un DataFrame de pandas y se debe devolver True si hay stock disponible para el producto y la cantidad especificados. Se debe evitar un posible loop infinito cuando el usuario ingrese productos inválidos o sin stock.
+En esta función, se busca en un DataFrame de pandas y se debe devolver True si hay stock disponible para el producto y la cantidad especificados. Se debe evitar un posible loop infinito cuando el usuario ingrese productos inválidos o sin stock.
 
 ### 3. Función validate_discount_code
-validate_discount_code: El objetivo de esta función es validar un código de descuento mencionado por el cliente en comparación con una lista de códigos de descuento vigentes. Si la diferencia entre el código mencionado y los códigos vigentes es menor a tres caracteres en al menos uno de los casos, se debe devolver True.
+El objetivo de esta función es validar un código de descuento mencionado por el cliente en comparación con una lista de códigos de descuento vigentes. Si la diferencia entre el código mencionado y los códigos vigentes es menor a tres caracteres en al menos uno de los casos, se debe devolver True.
 
 Estas funciones son fundamentales para que el bot de pedidos pueda tomar decisiones basadas en la información del clima, la disponibilidad de productos y los códigos de descuento. El proyecto busca desarrollar estas funcionalidades y asegurar que el bot pueda interactuar de manera efectiva con los clientes.
 
