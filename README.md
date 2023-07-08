@@ -26,7 +26,7 @@ Asegúrate de tener instalado Python 3.x y las siguientes dependencias:
 - requests
 - pytest (para ejecutar las pruebas)
 
-De todas maneras te lo iré recordando en el notebook a medida que lo vayamos necesitando.
+De todas maneras te lo iré recordando en el notebook a medida que lo vayamos necesitando. Y también lo tendrás disponible en el archivo [requirements.txt](requirements.txt) para instalarlo directamente desde allí.
 
 ## Ejecución de las pruebas
 Para ejecutar las pruebas unitarias, asegúrate de tener instalado pytest. Luego, en la línea de comandos, desde el directorio raíz del proyecto, ejecuta el siguiente comando:
