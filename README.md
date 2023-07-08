@@ -1,0 +1,1 @@
+"# Frozen-Bot : El proyecto Frozen Bot consiste en la construcción de un bot para la toma de pedidos de Heladerías Frozen SRL. Se requiere el desarrollo de funciones auxiliares que permitan al bot interactuar en la conversación con los clientes.  Las funciones a desarrollar son las siguientes" 
