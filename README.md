@@ -20,7 +20,7 @@ Estas funciones son fundamentales para que el bot de pedidos pueda tomar decisio
 Este proyecto, tiene la particularidad que estará resuelto en un archivo Jupyter Notebook, [ver archivo notebook.ipynb](notebook.ipynb) por lo que encontrarás fácilmente toda la documentación y el paso a paso de un solo vistazo.
 
 ## Requisitos del entorno y dependencias
-Asegúrate de tener instalado Python 3.x y las siguientes dependencias:
+Asegúrate de tener instalado una versión de Python 3.10.4 o superior y las siguientes dependencias:
 
 - pandas
 - requests
@@ -37,4 +37,4 @@ pytest
 Cristian Aramayo Reyes , Inceptia
 
 ## Agradecimientos
-Al Equipo de Inceptia por darme la oportunidad de participar de este proceso.
+Al Equipo de Inceptia por darme la oportunidad de participar en este proceso.
