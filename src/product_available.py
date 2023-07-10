@@ -44,7 +44,7 @@ def is_product_available(product_name, quantity):
         return False
     
 if __name__ == "__main__": 
-    result = is_product_available("chocolate", 10)
+    result = is_product_available("chocolate", 2)
     # Imprimir el resultado
     if result:
         print("¡Hay stock!")
